@@ -30,7 +30,7 @@ terraform {
   }
 
   provider_meta "google" {
-    module_name = "blueprints/terraform/terraform-google-vault:cluster/v1.0.0"
+    module_name = "blueprints/terraform/terraform-google-vault:cluster/v6.0.0"
   }
 
 }

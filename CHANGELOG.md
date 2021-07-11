@@ -6,6 +6,17 @@ and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [6.0.0](https://www.github.com/terraform-google-modules/terraform-google-vault/compare/v5.3.0...v6.0.0) (2021-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* Minimum Terraform version increased to 0.13.
+
+### Features
+
+* add Terraform 0.13 constraint and module attribution ([#128](https://www.github.com/terraform-google-modules/terraform-google-vault/issues/128)) ([008ef77](https://www.github.com/terraform-google-modules/terraform-google-vault/commit/008ef77fe09d1e6cf31f565ef91bdec86f7e671f))
+
 ## [5.3.0](https://www.github.com/terraform-google-modules/terraform-google-vault/compare/v5.2.0...v5.3.0) (2021-02-15)
 
 
